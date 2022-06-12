@@ -227,6 +227,7 @@ PRODUCT_PACKAGES += \
     libwifi-hal-ctrl
 
 PRODUCT_PACKAGES += \
+    apdr.conf \
     gps.conf \
     gnss_antenna_info.conf \
     flp.conf \
