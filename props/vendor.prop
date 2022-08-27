@@ -134,7 +134,7 @@ ro.vendor.qti.va_aosp.support=1
 # Graphics
 debug.cpurend.vsync=false
 ro.hardware.egl=adreno
-ro.hardware.vulkan=sdm660
+ro.hardware.vulkan=adreno
 
 # IMS
 persist.dbg.volte_avail_ovr=1
