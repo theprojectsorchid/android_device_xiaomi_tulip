@@ -80,6 +80,8 @@ ro.config.vc_call_vol_steps=7
 vendor.audio.adm.buffering.ms=6
 
 # Bluetooth
+persist.vendor.bt.a2dp_offload_cap=sbc-aptx-aptxhd-aac
+persist.vendor.qcom.bluetooth.a2dp_offload_cap=sbc-aptx-aptxhd-aac
 persist.vendor.qcom.bluetooth.soc=cherokee
 vendor.qcom.bluetooth.soc=cherokee
 
